@@ -1,0 +1,1 @@
+![Alt text](C:\Users\Andrea Navarro\Documents\ITESM\Itesm 10mo\Programacion\katas\kata0.jpeg?raw=true "kata0")
