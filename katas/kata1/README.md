@@ -1,1 +1,1 @@
-![Programacion de kata 0](kata1.jpeg?raw=true "kata1")
+![Programacion de kata 1](kata1.jpeg?raw=true "kata1")
